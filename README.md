@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sentiment Analysis API (FastAPI + Machine Learning)
 
 A production-style **Sentiment Analysis REST API** built with **FastAPI** and **scikit-learn**.  
@@ -172,3 +173,6 @@ Response:
 
 
 
+=======
+# sentimentAPI
+>>>>>>> 5059adf5917f28e9dd6a1a5f44624265512afc2d
