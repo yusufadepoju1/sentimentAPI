@@ -172,7 +172,3 @@ Response:
 ---
 
 
-
-=======
-# sentimentAPI
->>>>>>> 5059adf5917f28e9dd6a1a5f44624265512afc2d
